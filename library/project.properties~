@@ -12,5 +12,5 @@
 
 # Project target.
 target=android-20
-android.library.reference.1=../library
-android.library.reference.2=libs/ViewPagerIndicator/library
+android.library=true
+android.library.reference.1=../google-play-services_lib
