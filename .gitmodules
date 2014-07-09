@@ -1,0 +1,3 @@
+[submodule "sample/libs/ViewPagerIndicator"]
+	path = sample/libs/ViewPagerIndicator
+	url = https://github.com/twotoasters/Android-ViewPagerIndicator.git
